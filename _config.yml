@@ -1,4 +1,3 @@
 name: Witch Jump, Team HOP
 markdown: kramdown
 permalink: /log/:year/:month/:day/:title
-layout: default
